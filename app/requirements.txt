@@ -1,4 +1,4 @@
 python-dotenv
 pandas
 mecab
-tweepy
+git+https://github.com/halcy/Mastodon.py

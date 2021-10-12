@@ -107,3 +107,5 @@ triplets.pkl
 tweets_processed.csv
 banned.json
 tweets.csv.old
+clientcred.secret
+usercred.secret
